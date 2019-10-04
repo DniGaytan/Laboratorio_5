@@ -1,0 +1,16 @@
+
+body {
+  font-family: Arial;
+}
+li {
+  border: 1px solid grey;
+  padding: 10px 10px 10px 10px;
+  width: 25%;
+  margin-bottom: 10px;
+  list-style-type: none;
+  font-style: italic;
+}
+
+.p-checked {
+  text-decoration: line-through;
+}
